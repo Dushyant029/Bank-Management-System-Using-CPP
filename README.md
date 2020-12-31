@@ -4,5 +4,5 @@ This is a simple Bank Management System made using C++ where it will create acco
 
 ## Preview
 
-
+![image](https://user-images.githubusercontent.com/55031190/103413053-fe1a0980-4b9d-11eb-848c-c16df51785b6.png)
 
